@@ -71,5 +71,5 @@
 
 <h1></h1>
 <p align="center">
-    <span>&copy; 2025 itsmarian & Projekt City Ltd. | All rights reserved.</span>
+    <span>&copy; 2025 <a href="https://github.com/itsmarianmc/">itsmarian</a> & <a href="https://github.com/ProjektCity">Projekt City Ltd.</a> | All rights reserved.</span>
 </p>
