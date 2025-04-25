@@ -2,8 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+    - cron: "0 */12 * * *"  # Läuft alle 12 Stunden (Automatische Ausführung)
+  workflow_dispatch:  # Manuelle Auslösung auch weiterhin möglich
 
 jobs:
   generate:
@@ -15,8 +15,8 @@ jobs:
       - name: Generate GitHub contribution snake
         uses: Platane/snk@v3
         with:
-          bg_color: "#1B1D1E"
           github_user_name: itsmarianmc
+          bg_color: "#1e1e1e"
           outputs: |
             dist/github-contribution-grid-snake.svg
 
