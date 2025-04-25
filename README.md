@@ -1,5 +1,5 @@
 
-<p align="center">
+<p align="center" dir="auto">
     <a href="https://bit.ly/ProjektCity" rel="nofollow">
         <img height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/documentation/website_vector.svg" width="100%">
     </a>
