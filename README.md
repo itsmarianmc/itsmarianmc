@@ -27,31 +27,27 @@
 <!-- Projects -->
 <p align="center">
     <h1>My Projects</h1>
-    <div style="display: flex; align-items: center;">
-		<img src="https://projektcity.github.io/assets/images/logos/mainlogo.png" alt="Bild" style="margin-right: 20px;" width="50">
-		<div>
-			<p>
-				<span>
-					<b>Projekt City [by SuffixHD & itsmarian]</b>
-				</span>
-                <br>
-				<span>Projekt City is a unique and expansive Minecraft project that operates without funding and is entirely free to play for everyone. Our mission is to develop an easily navigable Minecraft world for everyone, while paying a lot of attention to details and flawless work. Within "Projekt City," we are constructing a large map that features a city, an airport, a hotel, and much more, with meticulous attention to detail and precision.</span>
-                <br>
-                <span>
-                    [
-                        <a href="https://bit.ly/ProjektCity">Open</a>
-                    ]
-                </span>
-                <br>
-                <span>
-                    [
-                        <a href="https://bit.ly/ProjektCityCF">CurseForge</a>
-                    ]
-                </span>
-            </p>
-		</div>
-    </div>
-
+	<div>
+		<p>
+			<span>
+				<b>Projekt City [by SuffixHD & itsmarian]</b>
+			</span>
+            <br>
+			<span>Projekt City is a unique and expansive Minecraft project that operates without funding and is entirely free to play for everyone. Our mission is to develop an easily navigable Minecraft world for everyone, while paying a lot of attention to details and flawless work. Within "Projekt City," we are constructing a large map that features a city, an airport, a hotel, and much more, with meticulous attention to detail and precision.</span>
+            <br>
+            <span>
+                [
+                    <a href="https://bit.ly/ProjektCity">Open</a>
+                ]
+            </span>
+            <br>
+            <span>
+                [
+                    <a href="https://bit.lyProjektCityCF">CurseForge</a>
+                ]
+            </span>
+        </p>
+	</div>
 </p>
 
 <h1></h1>
