@@ -1,4 +1,3 @@
-
 <p align="center">
     <a href="https://bit.ly/ProjektCity" rel="nofollow" style="text-align:center" >
         <img height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/documentation/website_vector.svg">
@@ -9,12 +8,13 @@
 </p>
 
 <p align="center">
-    <img style="display: block; margin-left: auto; margin-right: auto; padding-bottom: 25px;" src="https://github.com/itsmarianmc/itsmarianmc/raw/output/github-contribution-grid-snake.svg" width="100%" />
+    <img style="display: block; margin-left: auto; margin-right: auto; padding-bottom: 25px;" src="https://github.com/itsmarianmc/itsmarianmc/raw/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
 <p align="center">
     <img style="display: block; margin-left: auto; margin-right: auto; padding-bottom: 25px;" src="https://github-profile-trophy.vercel.app/?username=itsmarianmc&theme=radical&row=1&column=7&no-frame=true" width="100%" />
 </p>
+
 <p align="center">
     <h1>Welcome!</h1>
     <span>I am itsmarian, I'm a frontend website developer and active Minecraft player and I have my own Minecraft project in which I invest a lot of time. For this project I also run, manage and design a website as a hobby and for learning purposes. I create the websites to develop myself and to constantly expand my knowledge about websites, HTML, CSS, JavaScript in fields of frontend and backend. Among other things, I use artificial intelligence to test its limits and to help myself in tough situations in which I do not know further.</span>
