@@ -22,4 +22,12 @@
 
 <p align="center">
     <h1>My Projects</h1>
+    <img src="https://projektcity.github.io/assets/images/logos/mainlogo.png" align="left" style="margin-right: 20px;" width="50">
+    Projekt City
+
+</p>
+
+<p align="center">
+    <h1></h1>
+    <span>&copy; 2025 itsmarian & Projekt City Ltd. | All rights reserved.</span>
 </p>
