@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    <img style="display: block; margin-left: auto; margin-right: auto; padding-bottom: 25px;" src="https://github.com/itsmarianmc/itsmarianmc/raw/output/github-contribution-grid-snake.svg)" width="100%" />
+    <img style="display: block; margin-left: auto; margin-right: auto; padding-bottom: 25px;" src="https://github.com/itsmarianmc/itsmarianmc/raw/output/github-contribution-grid-snake.svg" width="100%" />
 </p>
 
 <p align="center">
