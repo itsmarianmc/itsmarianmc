@@ -28,7 +28,7 @@
 <!-- About -->
 <img align="left" src="https://lanyard.cnrad.dev/api/860122608682795028"/>
 <p align="center">
-    <span>I am itsmarian, I'm a front and Backend website developer and active Minecraft player and I have my own Minecraft project in which I invest a lot of time. For this project I also run, manage and design a website as a hobby and for learning purposes. I create the websites to develop myself and to constantly expand my knowledge about websites, HTML, CSS, JavaScript in fields of frontend and backend. Among other things, I use artificial intelligence to test its limits and to help myself in tough situations in which I do not know further.</span>
+    <span>I'm itmarian, I'm a German front- and backend website developer and I create websites as a hobby, both for myself and for friends and acquaintances. I also have my own theme for BetterDiscord* and Vencord*, which I update regularly. In addition, I have my own Minecraft project with a friend, where we set ourselves the goal of building a large map with a city, an airport, etc., all for free.</span>
 </p>
 <br>
 
