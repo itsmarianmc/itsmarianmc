@@ -26,33 +26,13 @@
 </p>
 
 <!-- About -->
-<h1>Welcome!</h1>
 <img align="left" src="https://lanyard.cnrad.dev/api/860122608682795028"/>
 <p align="center">
     <span>I am itsmarian, I'm a front and Backend website developer and active Minecraft player and I have my own Minecraft project in which I invest a lot of time. For this project I also run, manage and design a website as a hobby and for learning purposes. I create the websites to develop myself and to constantly expand my knowledge about websites, HTML, CSS, JavaScript in fields of frontend and backend. Among other things, I use artificial intelligence to test its limits and to help myself in tough situations in which I do not know further.</span>
 </p>
-
-<!-- Projects -->
 <br>
-<br
-<p align="center">
-    <h1>My Projects</h1>
-    <div>
-		<p>
-			<h3>All my projects</h3>
-			<span>You can find and try out all the other projects I do as a hobby on my site. If you like one of them, or if you want to use it yourself, feel free to do so. All code is open source and can be used by anyone under the MIT license.</span>
-            <br>
-            <span>(Perhaps be so kind as to refer to me? ;) )</span>
-            <br>
-            <span>
-                [
-                    <a href="https://itsmarianmc.github.io/">Open</a>
-                ]
-            </span>
-        </p>
-	</div>
-</p>
 
+<!-- Footer -->
 <h1></h1>
 <p align="center">
     <span>&copy; 2025 <a href="https://github.com/itsmarianmc/">itsmarian</a> & <a href="https://github.com/ProjektCity">Projekt City Ltd.</a> | All rights reserved.</span>
