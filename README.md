@@ -26,7 +26,7 @@
 </p>
 
 <!-- About -->
-<img align="left" src="https://lanyard.cnrad.dev/api/860122608682795028"/>
+<img align="left" height="100%" src="https://lanyard.cnrad.dev/api/860122608682795028"/>
 <p align="center">
     <span>I'm itmarian, I'm a German front- and backend website developer and I create websites as a hobby, both for myself and for friends and acquaintances. I also have my own theme for BetterDiscord* and Vencord*, which I update regularly. In addition, I have my own Minecraft project with a friend, where we set ourselves the goal of building a large map with a city, an airport, etc., all for free.</span>
     <br>
