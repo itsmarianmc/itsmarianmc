@@ -33,9 +33,9 @@
 </p>
 
 <!-- Projects -->
+<br>
+<br
 <p align="center">
-	<br>
-	<br
     <h1>My Projects</h1>
 	<div>
 		<p>
