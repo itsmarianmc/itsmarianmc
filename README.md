@@ -34,6 +34,11 @@
     <br>
     <span>If you are interested in the functionality and structure of my projects, you can view them on</span>
     <a href="https://github.com/itsmarianmc/" target="_blank">GitHub</a>
+    <br>
+    <span>Alternatively, you can also </span>
+    <a>try out my projects</a>
+    <span>yourself and </span><span>give me feedback</span>
+    <span>!</span>
 </p>
 <br>
 
