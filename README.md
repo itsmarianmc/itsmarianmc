@@ -36,8 +36,9 @@
     <a href="https://github.com/itsmarianmc/" target="_blank">GitHub</a>
     <br>
     <span>Alternatively, you can also </span>
-    <a>try out my projects</a>
-    <span>yourself and </span><span>give me feedback</span>
+    <a href="" target="_blank">try out my projects</a>
+    <span>yourself and</span>
+    <a href="" target="_blank">give me feedback</a>
     <span>!</span>
 </p>
 <br>
