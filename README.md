@@ -28,7 +28,9 @@
 <!-- About -->
 <img align="left" height="100%" src="https://lanyard.cnrad.dev/api/860122608682795028"/>
 <p align="center">
-    <span>Hey there, I am itsmarian. I'm a student and I am interested in web development, web design, front-end and back-end connections. In my spare time I like to create projects for my friends and myself. I also develop websites for myself, friends and others around me.</span>
+    <span>Hey there,</span>
+    <br>
+    <span>I am itsmarian. I'm a student and I am interested in web development, web design, front-end and back-end connections. In my spare time I like to create projects for my friends and myself. I also develop websites for myself, friends and others around me.</span>
     <br>
     <span>If you are interested in the functionality and structure of my projects, you can view them on</span>
     <a href="https://github.com/itsmarianmc/" target="_blank">GitHub</a>
