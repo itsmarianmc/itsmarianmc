@@ -33,10 +33,8 @@
     <span>I'm a developer and designer with a versatile skill set across several disciplines. My journey began at age 12, building simple websites and forms in HTML.</span>
     <span>Over the years, I've broadened my expertise to encompass UI/UX design, Discord bots, and custom BetterDiscord CSS snippets. I thrive on transforming complex concepts into elegant, user-friendly, and modern solutions.</span>
     <br>
-    <span>If you are interested, you can </span>
-    <a href="https://itsmarian.is-a.dev/" target="_blank">try out my projects</a>
-    <span>yourself and</span>
-    <a href="https://discord.com/users/860122608682795028/" target="_blank">give me feedback</a>
+    <span>Learn more about me on</span>
+    <a href="https://itsmarian.is-a.dev/" target="_blank">my website</a>
     <span>!</span>
 </p>
 <br>
