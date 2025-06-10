@@ -30,7 +30,7 @@
 <p align="center">
     <span>Hey there, I am itsmarian</span>.
     <br>
-    <span>I'm a developer and designer with a versatile skill set across several disciplines. My journey began at age 12, building simple websites and forms in HTML. From there, I started crafting custom code snippets for various WIX sites, which honed my UX and UI design abilities. Eventually, I challenged myself to design and build a website entirely from scratch—without any site builders — igniting my passion for creating immersive digital experiences which make a difference and mark a new era in my career.</span>
+    <span>I'm a developer and designer with a versatile skill set across several disciplines. My journey began at age 12, building simple websites and forms in HTML.</span>
     <span>Over the years, I've broadened my expertise to encompass UI/UX design, Discord bots, and custom BetterDiscord CSS snippets. I thrive on transforming complex concepts into elegant, user-friendly, and modern solutions.</span>
     <br>
     <span>If you are interested in the functionality and structure of my projects, you can view them on</span>
