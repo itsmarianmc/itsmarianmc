@@ -35,9 +35,5 @@
 <!-- Footer -->
 <h1></h1>
 <p align="center">
-    <span>&copy; 2025 <a href="https://github.com/itsmarianmc/">itsmarian</a> & <a href="https://github.com/ProjektCity">Projekt City Ltd.</a> | All rights reserved.</span>
+    <span>&copy; 2026 <a href="https://github.com/itsmarianmc/">itsmarian</a> & <a href="https://github.com/ProjektCity">Projekt City Ltd.</a> | All rights reserved.</span>
 </p>
-<p align="center">
-    <sub><sub>Vencord, as well as BetterDiscord are against Discord's Terms of Service and can potentially ban your Discord account. I do not endorse Vencord or BetterDiscord and disassociate myself from these services and am merely providing a service and am not affiliated with these services.</sub></sub>
-</p>
-
