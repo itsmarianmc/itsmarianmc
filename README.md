@@ -15,14 +15,7 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-    <img style="display: block; margin-left: auto; margin-right: auto; padding-bottom: 25px;" src="https://github-profile-trophy.vercel.app/?username=itsmarianmc&theme=radical&row=1&column=7&no-frame=true" width="100%" />
-</p>
-
-<!-- Profile Views -->
-<p align="center">
-    <span>PROFILE VIEWS</span>
-    <br>
-    <img src="https://profile-counter.glitch.me/itsmarianmc/count.svg">
+    <img style="display: block; margin-left: auto; margin-right: auto; padding-bottom: 25px;" src="https://trophy.ryglcloud.net/?username=itsmarianmc&theme=radical&row=1&column=7&no-frame=true" width="100%" />
 </p>
 
 <!-- About -->
