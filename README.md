@@ -1,6 +1,6 @@
 <!-- Head Items -->
 <p align="center">
-    <a href="https://itsmarian.is-a.dev/" rel="nofollow" style="text-align:center" >
+    <a href="https://itsmarian.dev/" rel="nofollow" style="text-align:center" >
         <img height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/documentation/website_vector.svg">
     </a>
     <a href="https://discord.com/users/860122608682795028" rel="nofollow" style="text-align:center" >
@@ -27,7 +27,7 @@
     <span>Over the years, I've broadened my expertise to encompass UI/UX design, Discord bots, and custom BetterDiscord* CSS snippets. I thrive on transforming complex concepts into elegant, user-friendly, and modern solutions.</span>
     <br>
     <span>Learn more about me and play my projects on</span>
-    <a href="https://itsmarian.is-a.dev/" target="_blank">my website</a>
+    <a href="https://itsmarian.dev/" target="_blank">my website</a>
     <span>!</span>
 </p>
 <br>
