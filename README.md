@@ -23,8 +23,8 @@
 <p align="center">
     <span>Hey there, I am itsmarian</span>.
     <br>
-    <span>I'm a developer and designer with a versatile skill set across several disciplines. My journey began at age 12, building simple websites and forms in HTML.</span>
-    <span>Over the years, I've broadened my expertise to encompass UI/UX design, Discord bots, and custom BetterDiscord* CSS snippets. I thrive on transforming complex concepts into elegant, user-friendly, and modern solutions.</span>
+    <span>I'm a full-stack developer with a passion for crafting seamless web experiences. My journey started with simple web builders at the age of 12 and evolved into a deep dive into web development, Node.js, and databases.</span>
+    <span>I thrive on building everything from community platforms to personal projects, always focusing on clean and understandable code.</span>
     <br>
     <span>Learn more about me and play my projects on</span>
     <a href="https://itsmarian.dev/" target="_blank">my website</a>
