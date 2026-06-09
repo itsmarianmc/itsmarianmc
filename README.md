@@ -15,7 +15,7 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-    <img style="display: block; margin-left: auto; margin-right: auto; padding-bottom: 25px;" src="https://trophy.ryglcloud.net/?username=itsmarianmc&theme=radical&row=1&column=7&no-frame=true" width="100%" />
+    <img style="display: block; margin-left: auto; margin-right: auto; padding-bottom: 25px;" src="https://github-profile-trophy-fork-two.vercel.app/?username=itsmarianmc&theme=radical&row=1&column=7&no-frame=true" width="100%" />
 </p>
 
 <!-- About -->
