@@ -34,5 +34,5 @@
 <!-- Footer -->
 <h1></h1>
 <p align="center">
-    <span>&copy; 2025 <a href="https://github.com/itsmarianmc/">itsmarian</a> | All rights reserved.</span>
+    <span>&copy; 2026 <a href="https://github.com/itsmarianmc/">itsmarian</a> | All rights reserved.</span>
 </p>
