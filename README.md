@@ -23,7 +23,7 @@
 <p align="center">
     <span>Hey there, I am itsmarian</span>.
     <br>
-    <span>I'm a full-stack developer with a passion for crafting seamless web experiences. My journey started with simple web builders at the age of 12 and evolved into a deep dive into web development, Node.js, and databases. I thrive on building everything from community platforms to personal projects, always focusing on clean and understandable code.</span>
+    <span>Full-stack developer building things for the web - from sleek frontends to scalable backends. I like clean code, good design, and shipping stuff that just works and makes my (and maybe your) life easier.</span>
     <br>
     <span>Learn more about me, my experience and play my projects on</span>
     <a href="https://itsmarian.dev/" target="_blank">itsmarian.dev</a>
