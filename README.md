@@ -31,6 +31,10 @@
 </p>
 <br>
 
+<!-- WakaTime Stats -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!-- Footer -->
 <h1></h1>
 <p align="center">
