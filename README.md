@@ -33,68 +33,17 @@
 
 <!-- WakaTime Stats -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2035%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+```txt
+From: 11 August 2026 - To: 18 August 2026
 
-**🐱 My GitHub Data** 
-
-> 📦 544.4 kB Used in GitHub's Storage 
- > 
-> 🏆 407 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 22 Public Repositories 
- > 
-> 🔑 13 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                90 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-🌆 Daytime                356 commits         ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
-🌃 Evening                786 commits         ██████████████░░░░░░░░░░░   55.16 % 
-🌙 Night                  193 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   181 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-Tuesday                  122 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-Wednesday                273 commits         █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
-Thursday                 333 commits         ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
-Friday                   187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-Saturday                 136 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-Sunday                   193 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+TypeScript   23 hrs 7 mins         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣤⣿⣿⣿⣿⣿   79.06 %
+Markdown     2 hrs 22 mins         ⣀⣀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   08.15 %
+Other        1 hr 18 mins          ⣀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   04.48 %
+CSS          1 hr 18 mins          ⣀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   04.48 %
+JSON         43 mins               ⣤⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   02.51 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-TypeScript               23 hrs 7 mins       ████████████████████░░░░░   79.06 % 
-Markdown                 2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-Other                    1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-CSS                      1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-JSON                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-
-🐱‍💻 Projects: 
-healthsync               19 hrs 37 mins      █████████████████░░░░░░░░   67.11 % 
-healthsync-v4            8 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   28.72 % 
-Unknown Project          46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
-status                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-transkripte              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
-
-💻 Operating System: 
-Windows                  29 hrs 14 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 19/08/2026 17:28:19 UTC
 <!--END_SECTION:waka-->
 
 <!-- Footer -->
