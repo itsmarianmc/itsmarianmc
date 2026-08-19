@@ -45,7 +45,7 @@
  > 
 > 🏆 407 Contributions in the Year 2026
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 22 Public Repositories 
  > 
@@ -54,21 +54,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                90 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
-🌆 Daytime                356 commits         ██████░░░░░░░░░░░░░░░░░░░   25.04 % 
-🌃 Evening                783 commits         ██████████████░░░░░░░░░░░   55.06 % 
-🌙 Night                  193 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+🌞 Morning                90 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+🌆 Daytime                356 commits         ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+🌃 Evening                785 commits         ██████████████░░░░░░░░░░░   55.13 % 
+🌙 Night                  193 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   181 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-Tuesday                  122 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-Wednesday                270 commits         █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
-Thursday                 333 commits         ██████░░░░░░░░░░░░░░░░░░░   23.42 % 
-Friday                   187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Saturday                 136 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-Sunday                   193 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+Monday                   181 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+Tuesday                  122 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+Wednesday                272 commits         █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+Thursday                 333 commits         ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
+Friday                   187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+Saturday                 136 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+Sunday                   193 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
 ```
 
 
@@ -138,7 +138,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/itsmarianmc/itsmarianmc/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2026 17:02:31 UTC
+ Last Updated on 19/08/2026 17:10:33 UTC
 <!--END_SECTION:waka-->
 
 <!-- Footer -->
